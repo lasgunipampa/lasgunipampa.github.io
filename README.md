@@ -1,2 +1,2 @@
 # lasgunipampa.github.io
-LASG - Laboratorio de Análise de Sinais Geofísicos
+LASG - Laboratório de Análise de Sinais Geofísicos
